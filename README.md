@@ -2,7 +2,7 @@
 This repo contains my Data Structures and Algorithms practice. 
 
 
-Part of my daily plan for studyingn dsa (C++).
+Part of my daily plan for studying dsa (C++).
 
 Important
 
