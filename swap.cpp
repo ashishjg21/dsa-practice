@@ -2,7 +2,7 @@
 // Description: swapping alternate numbers in array
 
 #include<iostream>
-#include <array>
+
 using namespace std;
 
 void printArray(int a[]) {
