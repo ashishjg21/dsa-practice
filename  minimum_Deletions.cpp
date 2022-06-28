@@ -1,5 +1,6 @@
 // Minimum Deletions.cpp: Ashish Galagali
 // Description: min
+// given a string s, return the minimum number of characters you need to delete to make s good.
 
 //Example 1:
 // Input: s = "aab"
