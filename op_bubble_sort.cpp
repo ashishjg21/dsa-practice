@@ -26,6 +26,38 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
+
+/*
+    NOT TO BE CONFUSED 
+if i --> 0  -->n-1
+    j--> 0  -->n-i-1
+if i --> 1  -->n
+    j--> 0 -->n-i
+
+void bubbleSort(vector<int>& arr, int n)
+{   
+    for(int i = 1; i<n; i++) {
+        //for round 1 to n-1
+        bool swapped = false;
+        
+        for(int j =0; j<n-i; j++) {
+            
+            //process element till n-i th index
+            if(arr[j] > arr[j+1]) {
+                swap(arr[j], arr[j+1]);
+                swapped = true;
+            }
+            
+        }
+        
+        if(swapped == false) {
+            //already sorted
+            break;
+        }
+           
+    }
+}
+*/
 void printArray(int arr[], int size){
     int i;
     for ( i = 0; i <size; i++)
