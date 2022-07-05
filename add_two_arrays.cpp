@@ -1,5 +1,5 @@
 // filename.cpp: Ashish Galagali
-// Description: .
+// Description: add two arrays 
 
 #include<iostream>
 using namespace std;
