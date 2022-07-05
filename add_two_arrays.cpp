@@ -1,4 +1,4 @@
-// filename.cpp: Ashish Galagali
+// add_two_arrays.cpp: Ashish Galagali
 // Description: add two arrays 
 
 #include<iostream>
