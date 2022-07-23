@@ -13,9 +13,6 @@ int main()
     cout<< b << endl;
 
 
-
-
-    cout<<"Enter a number: ";    
     cin>>n;    
     while(n>0)    
     {    
